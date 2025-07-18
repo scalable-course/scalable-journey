@@ -8,4 +8,4 @@ This is the example repository for the Building Scalable Software course.
 
 ## Participants
 
-- <!-- replace this with your ID -->
+- [@RahafSabra1](https://github.com/RahafSabra1)
