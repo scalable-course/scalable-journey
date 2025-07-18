@@ -4,7 +4,7 @@ This is the example repository for the Building Scalable Software course.
 
 ## Instructor
 
-- @musabhusaini
+- [@musabhusaini](https://github.com/musabhusaini)
 
 ## Participants
 
